@@ -1,4 +1,4 @@
-Sourcedome Theme
+Sourcedome WordPress Theme
 ==========
 
-Theme of [Sourcedome](http://www.sourcedome.de) adapted from Gridly Theme by [Eleven Themes](http://www.eleventhemes.com).
+WordPress Theme of [Sourcedome](http://www.sourcedome.de) adapted from Gridly Theme by [Eleven Themes](http://www.eleventhemes.com).
