@@ -10,7 +10,7 @@
                 <div class="gridly-category"><p><?php the_category(', ') ?></p></div>
              <?php } ?>                   
 
-       			<div class="gridly-copy gridly-post">
+       			<div class="gridly-copy gridly-singlepost">
                 <h1><?php the_title(); ?></h1>
            		 <?php the_content(); ?>
 		 

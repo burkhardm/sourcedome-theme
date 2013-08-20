@@ -74,7 +74,7 @@
   #post-area .post .gridly-link 		{ width:150px; border-top:1px dotted #e8e8e8; color:#494e51;}
 
 /* custom class */
-  .type-post a  { color:#858585; text-decoration:underline;}
+  .gridly-singlepost a  { color:#858585; text-decoration:underline;}
   .type-page a  { color:#858585; text-decoration:underline;}
 
 /* single post nav styles */ 
